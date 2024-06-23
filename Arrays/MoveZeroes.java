@@ -1,6 +1,7 @@
 //Input: nums = [0,1,0,3,12]
 //Output: [1,3,12,0,0]
 
+//Two pointer technique
 class Solution {
     public void moveZeroes(int[] nums) {
         int p1 = 0;
